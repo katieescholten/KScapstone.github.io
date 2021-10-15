@@ -43,7 +43,7 @@ For the category of algorithms and data structures for my artifact I chose to us
 I chose to use this artifact for my ePortfolio because it was created over two years ago.  Since then, I have learned a lot in the classes I have taken and it shows the ability I have to go back to previous work, understand it, and enhance by adding additional content.  This artifact also shows my understanding of the Java language. The specific components that display my skills and abilities in data structure are the creating of the zookeeper.txt files that and the section in case 3 that displays the information.  Skills and abilities for algorithms are shown from adding case 3 with a selector for each input while also performing the actions of opening the files and displaying them after the input is selected.
 I have met the course objectives for the enhancement of algorithm and data structure by adding in a new type of monitoring system to the project that provides more information to the zookeepers and adding complexity to the artifact.
 Throughout this computer science program, I have gained quite few skills. While creating this artifact originally in 2019, I learned more about the Java language overall. One thing I learned was that two years ago, I did not follow best coding practices as I did not comment properly on the code to explain what I did.  It made me realize how important commenting is in code, because if I had, it would’ve been easier to go back to a project from two years ago and understand it easier.
-
+[Original Java](https://github.com/katieescholten/KScapstone.github.io/blob/1058bec24ff547be1e7e982dcfe7e51f2d2c2489/algorithm_and_data_structures/Original_Zookeeper.java)
 
 ## Databases Enhancement
 
