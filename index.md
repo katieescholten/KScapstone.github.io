@@ -6,9 +6,9 @@ My intital code review and planned enhancements to my three artifacts :
 **insert link**
 
 ---
-- [Algorithm and Data Structures](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/algorithm_and_data_structures/algorithm_and_datastructures.md)
-- [Databases](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/databases/databases.md)
-- [Software Design and Engineering](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/software_design_and_engineering/software_design_and_engineering.md)
+- [Algorithm and Data Structures](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/algorithm_and_data_structures/algorithm_and_datastructures.html)
+- [Databases](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/databases/databases.html)
+- [Software Design and Engineering](https://github.com/katieescholten/KScapstone.github.io/blob/gh-pages/software_design_and_engineering/software_design_and_engineering.html)
 
 
 
