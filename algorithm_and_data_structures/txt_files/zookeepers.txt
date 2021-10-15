@@ -1,0 +1,18 @@
+Details on Brad
+Details on Lynne
+Details on John
+
+Zookeeper - Brad
+name: Brad Zooman
+*****speciality: Penguins
+employeeId: 0101101
+
+Zookeeper - Lynne
+name: Lynne Zoowoman
+speciality: Elephants
+employeeId: 9932321
+
+Zookeeper - John
+name: John Zoofella
+speciality: Dogs
+***** employeeId: 8793829
