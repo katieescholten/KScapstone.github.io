@@ -37,10 +37,10 @@ I selected this artifact to showcase my understanding of Java and Python languag
 Throughout the computer science program, I have learned a lot, while creating this artifact I learned more about the Java language overall. I learned how to make my code technically sound by using techniques to maintain reusability of code.  Transferring the project to Python was challenging as I had to remember how Java worked as I have not used it in a while.  In my last class I used the Python language, so it was less challenging to write in that language.
 
 
-[Original in Java](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Original_java)
+[Original Software Design and Engineering](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Original_java)
 
 
-[Enhanced in Python](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Enhanced_python)
+[Enhanced  Software Design and Engineering](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Enhanced_python)
 
 
 
@@ -56,10 +56,10 @@ I have met the course objectives for the enhancement of algorithm and data struc
 Throughout this computer science program, I have gained quite few skills. While creating this artifact originally in 2019, I learned more about the Java language overall. One thing I learned was that two years ago, I did not follow best coding practices as I did not comment properly on the code to explain what I did.  It made me realize how important commenting is in code, because if I had, it would’ve been easier to go back to a project from two years ago and understand it easier.
 
 
-[Original Artifact](https://github.com/katieescholten/KScapstone.github.io/blob/1058bec24ff547be1e7e982dcfe7e51f2d2c2489/algorithm_and_data_structures/Original_Zookeeper.java)
+[Original Algorithm and Data Structures](https://github.com/katieescholten/KScapstone.github.io/blob/1058bec24ff547be1e7e982dcfe7e51f2d2c2489/algorithm_and_data_structures/Original_Zookeeper.java)
 
 
-[Enhanced Artifact](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/algorithm_and_data_structures/**Enhanced_Zookeeper.java)
+[Enhanced Algorithm and Data Structures](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/algorithm_and_data_structures/**Enhanced_Zookeeper.java)
 
 
 ## Databases Enhancement
@@ -76,7 +76,7 @@ The first challenge I faced was deciding on which database package to use. I was
 I had to change the data structures for some of the arguments for them to work with SQLAlchemy. Since the data was easy for me to visualize in the Postgres database this turned out to be a mild obstacle to overcome. 
 
 
-[Original](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Original_DataBase.py)
+[Original Databases](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Original_DataBase.py)
 
 
-[Enhancement](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Enhanced_database.py)
+[Enhanced Databases](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Enhanced_database.py)
