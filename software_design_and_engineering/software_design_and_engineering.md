@@ -10,7 +10,9 @@ I met the course objectives that I planned to meet with the enhancement in modul
 
 Throughout the computer science program, I have learned a lot, while creating this artifact I learned more about the Java language overall. I learned how to make my code technically sound by using techniques to maintain reusability of code.  Transferring the project to Python was challenging as I had to remember how Java worked as I have not used it in a while.  In my last class I used the Python language, so it was less challenging to write in that language.
 
-[Original Software and Engineering ](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Original_java)
+**Links to Software Design and Engineering:**
+
+[Original Software Design and Engineering ](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Original_java)
 
 
-[Enhanced Software and Engineering](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Enhanced_python)
+[Enhanced Software Design and Engineering](https://github.com/katieescholten/KScapstone.github.io/tree/gh-pages/software_design_and_engineering/Enhanced_python)
