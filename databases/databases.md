@@ -15,3 +15,11 @@
 I had to change the data structures for some of the arguments for them to work with SQLAlchemy. Since the data was easy for me to visualize in the Postgres database this turned out to be a mild obstacle to overcome. 
 
 
+
+**Links to Database**
+
+
+[Database Original](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Original_DataBase.py)
+
+[Database Enhanced](https://github.com/katieescholten/KScapstone.github.io/blob/447e03eb344b3130e1e1a411ad99a96af9b6e396/databases/Enhanced_database.py)
+
