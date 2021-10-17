@@ -13,7 +13,7 @@ Throughout the Computer Science program at SNHU I have been tasked with creating
 
 **Portfolio links:**
 - insert professional assement
-- i[Code Review](https://youtu.be/gfZkRcxmfgI)
+- [Code Review](https://youtu.be/gfZkRcxmfgI)
 - [Algorithm and Data Structures](https://katieescholten.github.io/KScapstone.github.io/algorithm_and_data_structures/algorithm_and_datastructures.html)
 - [Databases](https://katieescholten.github.io/KScapstone.github.io/databases/databases.html)
 - [Software Design and Engineering](https://katieescholten.github.io/KScapstone.github.io/software_design_and_engineering/software_design_and_engineering.html)
