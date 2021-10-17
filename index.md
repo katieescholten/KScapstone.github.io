@@ -12,7 +12,7 @@ Throughout the Computer Science program at SNHU I have been tasked with creating
 ---
 
 **Portfolio links:**
-- insert professional assement
+- [Professional Assessment](https://katieescholten.github.io/KScapstone.github.io/ProfessionalAssessment.html)
 - [Code Review](https://youtu.be/gfZkRcxmfgI)
 - [Algorithm and Data Structures](https://katieescholten.github.io/KScapstone.github.io/algorithm_and_data_structures/algorithm_and_datastructures.html)
 - [Databases](https://katieescholten.github.io/KScapstone.github.io/databases/databases.html)
